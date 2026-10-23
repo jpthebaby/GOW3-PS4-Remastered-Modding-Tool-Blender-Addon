@@ -1,0 +1,20 @@
+JP GOW3 Modding - License
+Copyright (c) 2026 Gamer JP. All rights reserved.
+
+You MAY:
+  - download and use this add-on for free, for personal and non-commercial modding;
+  - share, publish and sell mods (the files the add-on creates) that you made with it,
+    provided you credit "Gamer JP" (for example "Made with JP GOW3 Modding by Gamer JP").
+
+You may NOT, without written permission from Gamer JP:
+  - re-upload, mirror or redistribute the add-on (original or modified) or its guide anywhere else;
+  - sell the add-on or include it in a paid product, pack or bundle;
+  - publish modified versions of the add-on or present it (or parts of its code) as your own work.
+
+Please share the link to the official page instead of the files.
+
+The add-on is provided "as is", without warranty of any kind. You use it at your own risk; the author is not
+liable for any damage to your files, game installation or saves. Always keep backups.
+
+God of War is a trademark of Sony Interactive Entertainment LLC. This tool is not affiliated with or endorsed by
+Sony Interactive Entertainment or Santa Monica Studio and contains no game data.
