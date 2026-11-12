@@ -15,6 +15,11 @@
 ![JP - GOW 3 PS4 Remastered Modding Tool - Blender Add-on v2.6.6 – sidebar panels](docs/panels.png)
 
 ---
+## Video Guide
+
+https://github.com/user-attachments/assets/711c134e-4670-48c5-9e24-ca2e5bf22695
+
+---
 
 ## Contents
 
